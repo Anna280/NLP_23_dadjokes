@@ -8,3 +8,4 @@ The repo contains scripts, data and the regression model used in the exam projec
 The contant of the folder:
 
 - Regression.ipynb contains the script for training the model + evaluating on test data
+- The data folder contains the uniformly distributed data on the 1-20 categories 
